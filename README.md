@@ -1,5 +1,5 @@
 # Text_Recognizer
-Recognize Text From Image Using Google Vision API
+This app recognizes the text from Image Using Google Vision API.
 
 # Snapshots
 
